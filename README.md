@@ -7,9 +7,9 @@ The main idea is to get familiar with index in 2D arrays.
 
 Other purposes of the program includes: 
 
-   -Practice nested loops
+        -Practice nested loops
    
-   -Generate random numbers
+        -Generate random numbers
    
-   -Generate user-friendly output
+        -Generate user-friendly output
 
